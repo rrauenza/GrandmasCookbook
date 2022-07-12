@@ -11,8 +11,10 @@ with open("export.txt") as fd:
 
         line = line.strip()
 
-        print(line)
+        # print(line)
 
+        if line == '_____':
+            continue
         if line == '@@@@@':
             title = None
             category = None
@@ -21,6 +23,13 @@ with open("export.txt") as fd:
 
         if line == '|':
             section += 1
+            if section == 1:
+                output.write("\n")
+            if section == 2:
+                output.write("\n### Ingredients\n\n")
+            if section == 3:
+                output.write("\n### Directions\n\n")
+            continue
 
         if section == 0:
             if category is None:
@@ -33,11 +42,22 @@ with open("export.txt") as fd:
                     assert False, f"Duplicate title: {title}"
                 seen.add(title)
                 output = open(f"{category}/{title}.md", "w")
-                output.write(f"# {category}\n")
+                output.write(f"# {category}\n\n")
                 output.write(f"## {title}\n")
                 continue
             assert False, f"{title}: There was another line in section 0: {line}"
 
+        if section == 1:
+            output.write(f"* {line}\n")
+
+        if section == 2:
+            output.write(f"* {line}\n")
+
+        if section == 3:
+            output.write(f"{line}\n")
+
+        if section == 4:
+            assert False, f"Section #{section}???"
 
 if output:
     output.close()
