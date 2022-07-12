@@ -70,7 +70,7 @@ if output:
     output.close()
 
 with open("README.md", "w") as fd:
-    fd.write("# Grandma's Recipes\n")
+    fd.write("# Grandma's Cookbook\n")
     for category in sorted(recipes.keys()):
         fd.write(f"## {category}\n")
         for title in sorted(recipes[category].keys()):

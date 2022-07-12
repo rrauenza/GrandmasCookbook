@@ -1,4 +1,4 @@
-# Grandma's Recipes
+# Grandma's Cookbook
 ## Breakfasts
 * [Almond Biscotti](Breakfasts/Almond Biscotti.md)
 * [Any Cream Pie Filling](Breakfasts/Any Cream Pie Filling.md)
