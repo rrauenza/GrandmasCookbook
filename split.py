@@ -3,6 +3,7 @@
 import re
 from pathlib import Path
 from collections import defaultdict
+import urllib.parse
 
 output = None
 
@@ -75,4 +76,5 @@ with open("README.md", "w") as fd:
         fd.write(f"## {category}\n")
         for title in sorted(recipes[category].keys()):
             filename = recipes[category][title]
+            filename = urllib.parse.quote(filename)
             fd.write(f"* [{title}]({filename})\n")
