@@ -19,4 +19,4 @@
 
 ### Directions
 
-Place chicken and broccoli on the bottom of the pan.  Sprinkle bread crumbs and cheese over mixture.  Bake at 350 degrees for 30 minutes.
+Place chicken and broccoli on the bottom of the pan. Sprinkle bread crumbs and cheese over mixture. Bake at 350 degrees for 30 minutes.

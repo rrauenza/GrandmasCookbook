@@ -20,6 +20,6 @@
 
 ### Directions
 
-Mix cornstarch, sugar, vinegar, soy sauce, ketchup, salt and pineapple juice in a saucepan.  Cook until thick.  Add pineapple, onion and green pepper.
+Mix cornstarch, sugar, vinegar, soy sauce, ketchup, salt and pineapple juice in a saucepan. Cook until thick. Add pineapple, onion and green pepper.
 
-Trim pork.  Dip pork in egg and coat with mixture of flour and salt.    Cook in a frying pan with a small amount of oil until tender and light brown.  Remove from pan and combine with sauce.  Bake at 350 degrees for 1 hour.
+Trim pork. Dip pork in egg and coat with mixture of flour and salt. Cook in a frying pan with a small amount of oil until tender and light brown. Remove from pan and combine with sauce. Bake at 350 degrees for 1 hour.

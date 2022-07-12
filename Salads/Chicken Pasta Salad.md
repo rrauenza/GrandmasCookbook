@@ -16,4 +16,4 @@
 
 ### Directions
 
-Poach chicken in chicken broth with celery tops, garlic powder and salt and pepper.  Cook noodles per noodle package directions.  Cook chicken and noodles.  Combine chicken, noodles, celery, and red onion in a bowl.  Mix together mayonnaise and curry together and mix into the chicken and noodle mixture, salt and pepper to taste and serve cold.
+Poach chicken in chicken broth with celery tops, garlic powder and salt and pepper. Cook noodles per noodle package directions. Cook chicken and noodles. Combine chicken, noodles, celery, and red onion in a bowl. Mix together mayonnaise and curry together and mix into the chicken and noodle mixture, salt and pepper to taste and serve cold.

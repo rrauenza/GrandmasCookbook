@@ -21,4 +21,4 @@
 
 ### Directions
 
-Brown ground beef with onion and garlic, drain fat.  Add the remaining ingredients.  Spray Pam on the sides and bottom of an 8x 12 glass pan.  Pour everything into the glass dish and bake at 350° for 30 to 45 minutes.
+Brown ground beef with onion and garlic, drain fat. Add the remaining ingredients. Spray Pam on the sides and bottom of an 8x 12 glass pan. Pour everything into the glass dish and bake at 350° for 30 to 45 minutes.

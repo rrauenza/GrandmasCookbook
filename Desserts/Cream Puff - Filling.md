@@ -2,9 +2,9 @@
 
 ## Cream Puff - Filling
 
-* 1 - 6 1/8 oz. package  Jell-O Vanilla Instant Pudding
-* 2 cups  milk
-* 1/2 pint  whipping cream
+* 1 - 6 1/8 oz. package Jell-O Vanilla Instant Pudding
+* 2 cups milk
+* 1/2 pint whipping cream
 * to taste sugar
 
 ### Ingredients

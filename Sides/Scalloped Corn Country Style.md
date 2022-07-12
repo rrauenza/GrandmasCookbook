@@ -9,8 +9,8 @@
 
 ### Ingredients
 
-* 1 can  cream-style corn
-* 1 can  whole kernel corn
+* 1 can cream-style corn
+* 1 can whole kernel corn
 * 1 cup sour cream
 * 12 eggs
 * 1 box small cornbread mix
@@ -18,7 +18,7 @@
 
 ### Directions
 
-In a bowl mix together everything except cornbread mix and butter.  Pour batter into the baking dish.  Sprinkle cornbread mix over batter and lightly stir with a fork.
+In a bowl mix together everything except cornbread mix and butter. Pour batter into the baking dish. Sprinkle cornbread mix over batter and lightly stir with a fork.
 
-Melt butter and pour over the top.  DON'T STIR.
+Melt butter and pour over the top. DON'T STIR.
 

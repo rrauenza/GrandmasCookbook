@@ -16,4 +16,4 @@
 
 ### Directions
 
-In a large bowl, prepare Jell-O per instructions on box (use 1/2 hot water to melt Jell-O then and 1/2 ice cubes to cool it down).  Add drained pineapple, drained strawberries, banana, and pecans. Mix well. Pour into 9 x 13-inch pan.  Place in refrigerator.  Once set, cover with sour cream.  Place in refrigerator until time to serve.
+In a large bowl, prepare Jell-O per instructions on box (use 1/2 hot water to melt Jell-O then and 1/2 ice cubes to cool it down). Add drained pineapple, drained strawberries, banana, and pecans. Mix well. Pour into 9 x 13-inch pan. Place in refrigerator. Once set, cover with sour cream. Place in refrigerator until time to serve.

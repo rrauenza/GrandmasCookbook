@@ -15,4 +15,4 @@
 
 ### Directions
 
-Combine cabbage, tomatoes and cilantro.  Dice jalapenos.  Add the amount of jalapenos to desired hotness. It get hotter as it sits.  Cover salad with dressing and toss.  Determine amount of dressing by wetness. Add cheese last and toss gently.  Let marinate 1 hour in refrigerator before serving.
+Combine cabbage, tomatoes and cilantro. Dice jalapenos. Add the amount of jalapenos to desired hotness. It get hotter as it sits. Cover salad with dressing and toss. Determine amount of dressing by wetness. Add cheese last and toss gently. Let marinate 1 hour in refrigerator before serving.

@@ -9,7 +9,7 @@
 
 ### Ingredients
 
-* 2 tablespoons  butter
+* 2 tablespoons butter
 * 1 small - diced yellow onion
 * 1 can cream of mushroom soup
 * 1 jar approx. 8 oz. Cheese Whiz
@@ -18,4 +18,4 @@
 
 ### Directions
 
-Melt butter.  Sauté onion in a large pan. Add broccoli and cook until broccoli is warm.   Add cream of mushroom soup, and Cheese Whiz until completely melted.  Add rice, salt and pepper.  Pour mixture into baking dish and bake for 30 minutes at 350°.
+Melt butter. Sauté onion in a large pan. Add broccoli and cook until broccoli is warm. Add cream of mushroom soup, and Cheese Whiz until completely melted. Add rice, salt and pepper. Pour mixture into baking dish and bake for 30 minutes at 350°.

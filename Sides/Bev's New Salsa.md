@@ -6,7 +6,7 @@
 
 ### Ingredients
 
-* 1 can  Fire Roasted Tomatoes
+* 1 can Fire Roasted Tomatoes
 * 2 chopped jalapenos
 * 4 -5 chopped green chili peppers
 * 1/2 chopped onion
@@ -19,4 +19,4 @@
 
 ### Directions
 
-Combine all ingredients.  Sit overnight.
+Combine all ingredients. Sit overnight.

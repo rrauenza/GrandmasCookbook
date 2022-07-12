@@ -13,4 +13,4 @@
 
 ### Directions
 
-Mix cottage cheese, Cool Whip and dry Jell-O together.  Add bite size pieces of fruit compatible to flavor of Jell-O.  Mix well.  Refrigerate until serving.
+Mix cottage cheese, Cool Whip and dry Jell-O together. Add bite size pieces of fruit compatible to flavor of Jell-O. Mix well. Refrigerate until serving.

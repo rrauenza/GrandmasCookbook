@@ -17,4 +17,4 @@
 
 ### Directions
 
-Combine first five ingredients in a bowl and mix.  Add sour cream, salt, pepper, and garlic powder and mix until everything is thoroughly covered.  Refrigerate until served.
+Combine first five ingredients in a bowl and mix. Add sour cream, salt, pepper, and garlic powder and mix until everything is thoroughly covered. Refrigerate until served.

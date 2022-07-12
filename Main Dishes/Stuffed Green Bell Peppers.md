@@ -21,4 +21,4 @@
 
 ### Directions
 
-Pre-cook peppers for 10 minutes in a steamer.  Combine all of the ingredients and place ingredients in peppers.  Place peppers in a baking dish and place remaining meat mixture in the bottom of the pan.  Spread cheese over the meat in the peppers.
+Pre-cook peppers for 10 minutes in a steamer. Combine all of the ingredients and place ingredients in peppers. Place peppers in a baking dish and place remaining meat mixture in the bottom of the pan. Spread cheese over the meat in the peppers.

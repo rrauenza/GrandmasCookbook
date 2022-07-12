@@ -20,4 +20,4 @@
 
 ### Directions
 
-Roast Pork - String meat - add water with bullion cubes.  Add remaining ingredients to meat and simmer for 2 hours on stove.  Serve in flour tortillas.
+Roast Pork - String meat - add water with bullion cubes. Add remaining ingredients to meat and simmer for 2 hours on stove. Serve in flour tortillas.

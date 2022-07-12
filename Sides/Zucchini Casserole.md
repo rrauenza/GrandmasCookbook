@@ -18,4 +18,4 @@
 
 ### Directions
 
-Melt butter. Mix together stove top dressing with butter.  In a bowl mix together the first 5 ingredients.  Add half of the dressing to the bowl mix.  Spoon mixture into baking dish.  Take the remaining dressing and spread it on top.  Bake for 45 to 60 minutes.
+Melt butter. Mix together stove top dressing with butter. In a bowl mix together the first 5 ingredients. Add half of the dressing to the bowl mix. Spoon mixture into baking dish. Take the remaining dressing and spread it on top. Bake for 45 to 60 minutes.

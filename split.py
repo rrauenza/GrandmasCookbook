@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import re
 from pathlib import Path
 
 output = None
@@ -10,6 +11,7 @@ with open("export.txt") as fd:
     for line in fd.readlines():
 
         line = line.strip()
+        line = re.sub(r' +', ' ', line)
 
         # print(line)
 

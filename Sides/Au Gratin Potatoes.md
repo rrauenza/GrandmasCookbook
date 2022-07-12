@@ -18,4 +18,4 @@
 
 ### Directions
 
-Make a layer of:  potatoes, cheese, and onions, lightly flour, add salt and pepper - repeat layer 2 more times.  After completing 3 layers pour milk evenly over dish to the depth of half of the pan.
+Make a layer of: potatoes, cheese, and onions, lightly flour, add salt and pepper - repeat layer 2 more times. After completing 3 layers pour milk evenly over dish to the depth of half of the pan.

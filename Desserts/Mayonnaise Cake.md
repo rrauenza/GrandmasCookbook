@@ -2,20 +2,20 @@
 
 ## Mayonnaise Cake
 
-* 350°  30 min
+* 350° 30 min
 * 9 inch greased and floured pan
 * Cook Time: 30 min
 
 ### Ingredients
 
 * 2 cups flour
-* 1 cup  sugar
-* 1 1/2 teaspoons  baking soda
-* 1 1/2 teaspoons  baking powder
-* 4 tablespoons  unsweetened baking chocolate
-* 1 cup  water
-* 1 cup  mayonnaise
-* 2 teaspoons  vanilla extract
+* 1 cup sugar
+* 1 1/2 teaspoons baking soda
+* 1 1/2 teaspoons baking powder
+* 4 tablespoons unsweetened baking chocolate
+* 1 cup water
+* 1 cup mayonnaise
+* 2 teaspoons vanilla extract
 
 ### Directions
 

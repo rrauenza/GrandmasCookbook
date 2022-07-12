@@ -22,4 +22,4 @@
 
 ### Directions
 
-In one bowl put flour, baking powder, baking soda, salt, nutmeg, and nuts.   In mixer bowl combine butter and sugar and mix on medium speed, then add eggs and mix until light and fluffy about 4 minutes.  On medium speed, alternate adding dry mixture and bananas until smooth.  Turn into sprayed loaf pan.  Cool 15 min. then remove from pan.
+In one bowl put flour, baking powder, baking soda, salt, nutmeg, and nuts. In mixer bowl combine butter and sugar and mix on medium speed, then add eggs and mix until light and fluffy about 4 minutes. On medium speed, alternate adding dry mixture and bananas until smooth. Turn into sprayed loaf pan. Cool 15 min. then remove from pan.

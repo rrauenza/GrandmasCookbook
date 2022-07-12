@@ -12,4 +12,4 @@
 
 ### Ingredients
 
-* Cook chicken in chicken broth,  r buy a whole cooked chicken.  Cool cooked chicken then cut into bite size pieces.  Mix chicken, pineapple, celery, almonds, and water chestnuts  in a bowl and cover with mayonnaise and salt and pepper to taste..  Serve salad over crunchy noodles.
+* Cook chicken in chicken broth, r buy a whole cooked chicken. Cool cooked chicken then cut into bite size pieces. Mix chicken, pineapple, celery, almonds, and water chestnuts in a bowl and cover with mayonnaise and salt and pepper to taste.. Serve salad over crunchy noodles.

@@ -8,10 +8,10 @@
 
 * Beef Flap Meat
 * garlic grains
-* very little  cumin
+* very little cumin
 * to taste salt & pepper
 * 3 - 4 fresh lemons lemon juice
 
 ### Directions
 
-Prepare 5 days ahead.  Seal
+Prepare 5 days ahead. Seal

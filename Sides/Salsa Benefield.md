@@ -12,4 +12,4 @@
 
 ### Ingredients
 
-* Combine ingredients, mix and serve.  For less chunky salsa use a blender.
+* Combine ingredients, mix and serve. For less chunky salsa use a blender.

@@ -17,11 +17,11 @@
 * 1/2 cup heavy cream
 * 1/2 cup sugar
 * 1/2 cup packed brown sugar
-* 1/2 cup  flour
+* 1/2 cup flour
 * 4 cups packed brown sugar
-* 1 teaspoon  cinnamon
+* 1 teaspoon cinnamon
 * 1/4 teaspoon salt
-* 1 pinch  nutmeg
+* 1 pinch nutmeg
 * 8 sticks cold - cut into pieces butter
 
 ### Directions
