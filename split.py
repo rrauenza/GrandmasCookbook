@@ -2,10 +2,13 @@
 
 import re
 from pathlib import Path
+from collections import defaultdict
 
 output = None
 
 seen = set()
+
+recipes = defaultdict(dict)
 
 with open("export.txt") as fd:
     for line in fd.readlines():
@@ -43,9 +46,11 @@ with open("export.txt") as fd:
                 if title in seen:
                     assert False, f"Duplicate title: {title}"
                 seen.add(title)
-                output = open(f"{category}/{title}.md", "w")
+                filename = f"{category}/{title}.md"
+                output = open(filename, "w")
                 output.write(f"# {category}\n\n")
                 output.write(f"## {title}\n")
+                recipes[category][title] = filename
                 continue
             assert False, f"{title}: There was another line in section 0: {line}"
 
@@ -63,3 +68,11 @@ with open("export.txt") as fd:
 
 if output:
     output.close()
+
+with open("README.md", "w") as fd:
+    fd.write("# Grandma's Recipes\n")
+    for category in sorted(recipes.keys()):
+        fd.write(f"## {category}\n")
+        for title in sorted(recipes[category].keys()):
+            filename = recipes[category][title]
+            fd.write(f"* [{title}]({filename})\n")
