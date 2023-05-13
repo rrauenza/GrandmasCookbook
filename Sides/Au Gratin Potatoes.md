@@ -13,7 +13,7 @@
 * 4 large - peeled russet potatoes thinly sliced rounds
 * 8 - 10 oz. shredded medium cheddar cheese
 * 1 small - diced onion
-* flour for spreading
+* flour for sprinkling
 * salt & pepper
 * milk
 
